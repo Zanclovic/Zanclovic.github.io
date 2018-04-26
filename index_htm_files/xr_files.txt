@@ -1,8 +1,0 @@
-index_htm_files
-index.htm
-index_htm_files/1.png
-index_htm_files/1@2x.png
-index_htm_files/4.png
-index_htm_files/4@2x.png
-index_htm_files/XaraWDGeneratedHTMLfont1.woff
-index_htm_files/XaraWDEmbeddedHTMLfont1.eot
